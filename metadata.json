@@ -1,0 +1,6 @@
+{
+  "name": "OmniPDF",
+  "description": "Professional all-in-one document suite for scanning, converting, merging, e-signing, and encrypting PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

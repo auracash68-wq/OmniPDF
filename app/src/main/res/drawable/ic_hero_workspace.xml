@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="160dp"
+    android:viewportWidth="400"
+    android:viewportHeight="160">
+    <!-- Warm desk gradient background -->
+    <path
+        android:pathData="M0,0h400v160h-400z"
+        android:fillColor="#3D322A" />
+    <!-- Desk surface texture -->
+    <path
+        android:pathData="M0,0h400v160h-400z"
+        android:fillColor="#5A4738"
+        android:fillAlpha="0.6" />
+    <!-- Tablet on desk -->
+    <path
+        android:pathData="M160,20 L330,20 A12,12 0 0,1 342,32 L342,140 A12,12 0 0,1 330,152 L160,152 A12,12 0 0,1 148,140 L148,32 A12,12 0 0,1 160,20 Z"
+        android:fillColor="#111827" />
+    <!-- Tablet Screen -->
+    <path
+        android:pathData="M156,28 L334,28 A4,4 0 0,1 338,32 L338,138 A4,4 0 0,1 334,142 L156,142 A4,4 0 0,1 152,138 L152,32 A4,4 0 0,1 156,28 Z"
+        android:fillColor="#F8FAFC" />
+    <!-- Document on tablet screen -->
+    <path
+        android:pathData="M168,40 L240,40"
+        android:strokeWidth="3"
+        android:strokeColor="#2563EB"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M168,52 L320,52 M168,62 L300,62 M168,72 L280,72"
+        android:strokeWidth="2"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+    <!-- Coffee cup -->
+    <path
+        android:pathData="M366,48m-18,0a18,18 0 1,0 36,0a18,18 0 1,0 -36,0"
+        android:fillColor="#E5E7EB" />
+    <path
+        android:pathData="M366,48m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0"
+        android:fillColor="#6B4F3B" />
+    <!-- Paper sheets on left -->
+    <path
+        android:pathData="M24,24 L120,32 L108,148 L12,140 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9" />
+    <path
+        android:pathData="M36,20 L132,24 L122,142 L26,138 Z"
+        android:fillColor="#F1F5F9"
+        android:fillAlpha="0.95" />
+    <!-- Architectural pen -->
+    <path
+        android:pathData="M136,36 L144,140"
+        android:strokeWidth="4"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round" />
+</vector>

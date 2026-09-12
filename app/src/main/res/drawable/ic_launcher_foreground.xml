@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Body -->
+    <path
+        android:pathData="M32,28 C32,25.79 33.79,24 36,24 L60,24 L76,40 L76,80 C76,82.21 74.21,84 72,84 L36,84 C33.79,84 32,82.21 32,80 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Folded Corner -->
+    <path
+        android:pathData="M60,24 L76,40 L60,40 Z"
+        android:fillColor="#F97316" />
+    <!-- Green Bar -->
+    <path
+        android:pathData="M40,48 L68,48"
+        android:strokeWidth="6"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round" />
+    <!-- Blue Bar -->
+    <path
+        android:pathData="M40,58 L60,58"
+        android:strokeWidth="6"
+        android:strokeColor="#2563EB"
+        android:strokeLineCap="round" />
+    <!-- Pro Checkmark Badge -->
+    <path
+        android:pathData="M66,60 A10,10 0 1,1 65.99,60 Z"
+        android:fillColor="#F97316" />
+    <!-- White Checkmark -->
+    <path
+        android:pathData="M63,70 L65,72 L69,67"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

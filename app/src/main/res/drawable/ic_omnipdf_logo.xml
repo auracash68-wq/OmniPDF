@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Rounded blue container -->
+    <path
+        android:pathData="M24,0 L76,0 A24,24 0 0,1 100,24 L100,76 A24,24 0 0,1 76,100 L24,100 A24,24 0 0,1 0,76 L0,24 A24,24 0 0,1 24,0 Z"
+        android:fillColor="#2563EB" />
+    <!-- White Document Body -->
+    <path
+        android:pathData="M28,24 C28,21.79 29.79,20 32,20 L56,20 L72,36 L72,76 C72,78.21 70.21,80 68,80 L32,80 C29.79,80 28,78.21 28,76 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Orange Folded Corner -->
+    <path
+        android:pathData="M56,20 L72,36 L56,36 Z"
+        android:fillColor="#F97316" />
+    <!-- Green Bar -->
+    <path
+        android:pathData="M39,47 L61,47"
+        android:strokeWidth="6"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round" />
+    <!-- Blue Bar -->
+    <path
+        android:pathData="M39,57 L53,57"
+        android:strokeWidth="6"
+        android:strokeColor="#2563EB"
+        android:strokeLineCap="round" />
+    <!-- Orange Badge Circle -->
+    <path
+        android:pathData="M62,56 A10,10 0 1,1 61.99,56 Z"
+        android:fillColor="#F97316" />
+    <!-- White Checkmark -->
+    <path
+        android:pathData="M59,66 L61,68 L65,63"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

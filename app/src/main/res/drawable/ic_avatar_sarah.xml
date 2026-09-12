@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Soft warm background -->
+    <path
+        android:pathData="M0,0h120v120h-120z"
+        android:fillColor="#E2E7FF" />
+    <!-- Head outline -->
+    <path
+        android:pathData="M60,60 A24,24 0 1,0 60,12 A24,24 0 1,0 60,60 Z"
+        android:fillColor="#D29985" />
+    <!-- Hair -->
+    <path
+        android:pathData="M38,36 C38,18 48,10 60,10 C72,10 82,18 82,36 C82,48 80,56 80,56 C74,48 70,42 60,42 C50,42 46,48 40,56 C40,56 38,48 38,36 Z"
+        android:fillColor="#4A3428" />
+    <!-- Hair side flow -->
+    <path
+        android:pathData="M38,36 C36,46 36,58 40,68 C42,66 45,56 45,50 Z"
+        android:fillColor="#3A281E" />
+    <path
+        android:pathData="M82,36 C84,46 84,58 80,68 C78,66 75,56 75,50 Z"
+        android:fillColor="#3A281E" />
+    <!-- Suit shoulders -->
+    <path
+        android:pathData="M24,120 C24,90 40,78 60,78 C80,78 96,90 96,120 Z"
+        android:fillColor="#4B5563" />
+    <!-- Blouse collar -->
+    <path
+        android:pathData="M52,78 L60,94 L68,78 Z"
+        android:fillColor="#FFF8F0" />
+    <!-- Jacket lapels -->
+    <path
+        android:pathData="M44,80 L56,104 L52,120 L24,120 Z"
+        android:fillColor="#374151" />
+    <path
+        android:pathData="M76,80 L64,104 L68,120 L96,120 Z"
+        android:fillColor="#374151" />
+    <!-- Subtle smile -->
+    <path
+        android:pathData="M54,46 Q60,52 66,46"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+</vector>

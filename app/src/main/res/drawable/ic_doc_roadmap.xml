@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="100dp"
+    android:viewportWidth="80"
+    android:viewportHeight="100">
+    <path
+        android:pathData="M8,4 L72,4 A4,4 0 0,1 76,8 L76,92 A4,4 0 0,1 72,96 L8,96 A4,4 0 0,1 4,92 L4,8 A4,4 0 0,1 8,4 Z"
+        android:fillColor="#F8FAFC" />
+    <!-- Slide Header -->
+    <path
+        android:pathData="M14,14 L50,14"
+        android:strokeWidth="2.5"
+        android:strokeColor="#1E293B"
+        android:strokeLineCap="round" />
+    <!-- Colorful roadmap Gantt / Milestone blocks -->
+    <path
+        android:pathData="M14,26 L38,26"
+        android:strokeWidth="5"
+        android:strokeColor="#3B82F6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M30,38 L60,38"
+        android:strokeWidth="5"
+        android:strokeColor="#F59E0B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M44,50 L66,50"
+        android:strokeWidth="5"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M14,62 L48,62"
+        android:strokeWidth="5"
+        android:strokeColor="#8B5CF6"
+        android:strokeLineCap="round" />
+    <!-- Presentation dots -->
+    <path
+        android:pathData="M20,78m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0"
+        android:fillColor="#CBD5E1" />
+    <path
+        android:pathData="M40,78m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0"
+        android:fillColor="#CBD5E1" />
+    <path
+        android:pathData="M60,78m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0"
+        android:fillColor="#CBD5E1" />
+</vector>

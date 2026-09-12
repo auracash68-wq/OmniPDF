@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="100dp"
+    android:viewportWidth="80"
+    android:viewportHeight="100">
+    <path
+        android:pathData="M8,4 L72,4 A4,4 0 0,1 76,8 L76,92 A4,4 0 0,1 72,96 L8,96 A4,4 0 0,1 4,92 L4,8 A4,4 0 0,1 8,4 Z"
+        android:fillColor="#F8FAFC" />
+    <path
+        android:pathData="M14,14 L44,14"
+        android:strokeWidth="2.5"
+        android:strokeColor="#1E293B"
+        android:strokeLineCap="round" />
+    <!-- Medical Cross Badge -->
+    <path
+        android:pathData="M58,10 L64,10 L64,16 L70,16 L70,22 L64,22 L64,28 L58,28 L58,22 L52,22 L52,16 L58,16 Z"
+        android:fillColor="#EF4444" />
+    <path
+        android:pathData="M14,28 L40,28"
+        android:strokeWidth="1.5"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M14,38 L66,38"
+        android:strokeWidth="1.5"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M14,46 L66,46"
+        android:strokeWidth="1.5"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M14,54 L50,54"
+        android:strokeWidth="1.5"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round" />
+    <!-- Checkbox item -->
+    <path
+        android:pathData="M14,66 L22,66 L22,74 L14,74 Z"
+        android:strokeWidth="1"
+        android:strokeColor="#3B82F6" />
+    <path
+        android:pathData="M16,70 L19,73 L24,67"
+        android:strokeWidth="1.5"
+        android:strokeColor="#3B82F6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M28,70 L58,70"
+        android:strokeWidth="2"
+        android:strokeColor="#1E293B"
+        android:strokeLineCap="round" />
+</vector>
